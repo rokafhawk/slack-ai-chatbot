@@ -13,7 +13,7 @@ Slack 채널의 대화 내용을 요약하고 분석하는 도구입니다.
 
 1. 레포지토리 클론:
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/slack-ai-chatbot.git
+git clone https://github.com/rokafhawk/slack-ai-chatbot.git
 cd slack-ai-chatbot
 ```
 
